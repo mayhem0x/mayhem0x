@@ -4,7 +4,6 @@
 <img src="https://komarev.com/ghpvc/?username=mayhem0x&label=Profile%20Views&color=21262d&style=flat-square" alt="Profile Views" />
 
 <br/><br/>
-
 <!-- Минималистичный монохромный заголовок -->
 # <b>mayhem0x</b>
 <sub><i>"Software Engineer • Python & Web Ecosystems"</i></sub>
@@ -15,7 +14,6 @@
 ---
 
 ### <b>Стек & Инструменты</b>
-
 <!-- Строгие темные иконки без ядовитых цветов -->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,js,ts,react,tailwind,fastapi,postgres,docker,linux,git&theme=dark" alt="Tech Stack" />
