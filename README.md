@@ -15,4 +15,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=mayhem0x&show_icons=true&locale=ru&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" alt="GitHub Stats" />
 
+<p></p>
+
+<a href="https://t.me/wantedeuropol">
+  <img src="https://img.shields.io/badge/Telegram-161b22?style=for-the-badge&logo=telegram&logoColor=c9d1d9" alt="Telegram" />
+</a>
+
 </div>
